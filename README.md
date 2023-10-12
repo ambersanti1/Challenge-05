@@ -3,4 +3,3 @@ This repository codes for a Work Day Scheduler. It shows the current day, let sa
 
 ![Alt text](image.png)
 
-
