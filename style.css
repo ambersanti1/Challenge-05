@@ -3,6 +3,19 @@ body {
   font-size: 16px;
 }
 
+h1 {
+  font-family: familjen grotesk;
+}
+
+h2 {
+  font-family: archivo;
+}
+
+header {
+  padding: 30px;
+  padding-left: 150px;
+}
+
 textarea {
   background: transparent;
   border: none;
@@ -58,6 +71,14 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-#estilo {
-  color: blue;
+.container-fluid{
+  font-family: archivo;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
